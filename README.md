@@ -87,11 +87,10 @@ We have installed the following Beats on these machines:
 
 These Beats allow us to collect the following information from each machine:
 - _Filebeat collects various logs from the two Web VMs, including the system.syslog_
-![tim-peoples-project-1](Images/filebbeat example.jpg)
+![test](https://github.com/timmytimmy86/Tim-Peoples-Project-1/blob/main/Images/filebbeat%20example.jpg)
 
 - _Metricbeat, by contrast, allows for visualization of various logs such as:
-![tim-peoples-project-1](Images/metricbeat example.jpg)
-
+![test](https://github.com/timmytimmy86/Tim-Peoples-Project-1/blob/main/Images/metricbeat%20example.jpg)
 
 ### Using the Playbook
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
