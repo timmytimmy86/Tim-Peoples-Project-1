@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![test](Tim-Peoples-Project-1/Diagrams/Network diagram.jpg)
+![test](/Tim-Peoples-Project-1/Diagrams/Network diagram.jpg)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the elksetup.yml file may be used to install only certain pieces of it, such as Filebeat.
 
